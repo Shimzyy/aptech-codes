@@ -1,0 +1,15 @@
+C:\Users\SHIMA\Documents\code c#\bin\Debug\net6.0\code c#.exe
+C:\Users\SHIMA\Documents\code c#\bin\Debug\net6.0\code c#.deps.json
+C:\Users\SHIMA\Documents\code c#\bin\Debug\net6.0\code c#.runtimeconfig.json
+C:\Users\SHIMA\Documents\code c#\bin\Debug\net6.0\code c#.dll
+C:\Users\SHIMA\Documents\code c#\bin\Debug\net6.0\code c#.pdb
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.csproj.AssemblyReference.cache
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.AssemblyInfoInputs.cache
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.AssemblyInfo.cs
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.dll
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\refint\code c#.dll
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.pdb
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\code c#.genruntimeconfig.cache
+C:\Users\SHIMA\Documents\code c#\obj\Debug\net6.0\ref\code c#.dll

@@ -1,0 +1,14 @@
+Class runcode {
+	public static void(String[]args)
+	{
+		Classes classy = new Classes();
+			classy.display();
+		
+		
+		
+		
+	}
+
+
+
+}

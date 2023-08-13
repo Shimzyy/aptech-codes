@@ -1,0 +1,18 @@
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.exe
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.deps.json
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.runtimeconfig.json
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.runtimeconfig.dev.json
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.dll
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\ref\simple calculator.dll
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\bin\Debug\net5.0-windows\simple calculator.pdb
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.vbproj.AssemblyReference.cache
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple_calculator.Form1.resources
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.vbproj.GenerateResource.cache
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.AssemblyInfoInputs.cache
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.AssemblyInfo.vb
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.vbproj.CoreCompileInputs.cache
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.dll
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\ref\simple calculator.dll
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.pdb
+C:\Users\SHIMA\Documents\code c#\simple calculator\simple calculator\obj\Debug\net5.0-windows\simple calculator.genruntimeconfig.cache

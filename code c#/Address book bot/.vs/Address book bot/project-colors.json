@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a4a9385-18cb-45ca-bd20-2360f8ab338d": {
+      "ProjectGuid": "9a4a9385-18cb-45ca-bd20-2360f8ab338d",
+      "DisplayName": "Address book bot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

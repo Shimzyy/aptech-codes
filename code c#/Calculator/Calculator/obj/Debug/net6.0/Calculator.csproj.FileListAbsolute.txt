@@ -1,0 +1,15 @@
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+C:\Users\SHIMA\source\repos\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\SHIMA\source\repos\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache

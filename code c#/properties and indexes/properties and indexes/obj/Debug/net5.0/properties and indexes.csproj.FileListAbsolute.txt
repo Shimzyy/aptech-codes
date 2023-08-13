@@ -1,0 +1,16 @@
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.exe
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.deps.json
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.runtimeconfig.json
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.runtimeconfig.dev.json
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.dll
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\ref\properties and indexes.dll
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\bin\Debug\net5.0\properties and indexes.pdb
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.csproj.AssemblyReference.cache
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.AssemblyInfoInputs.cache
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.AssemblyInfo.cs
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.dll
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\ref\properties and indexes.dll
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.pdb
+C:\Users\SHIMA\Documents\code c#\properties and indexes\properties and indexes\obj\Debug\net5.0\properties and indexes.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxkH360itE2LkPNhpb5ZYu6CXicxFUolQXafY2SOqDHvbQF9QLJ4vC9fwuiLHJOhb5elZ+sGo807ntsMK7bLnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHIMA\\Documents\\code c#\\classes\\classes\\classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIMA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

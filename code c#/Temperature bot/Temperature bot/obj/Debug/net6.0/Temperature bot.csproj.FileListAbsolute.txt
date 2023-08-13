@@ -1,0 +1,29 @@
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.AssemblyInfoInputs.cache
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.AssemblyInfo.cs
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.exe
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.deps.json
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.runtimeconfig.json
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.dll
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\ref\Temperature bot.dll
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.pdb
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.dll
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\ref\Temperature bot.dll
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.pdb
+C:\Users\SHIMA\source\repos\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.genruntimeconfig.cache
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.exe
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.deps.json
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.runtimeconfig.json
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.dll
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\bin\Debug\net6.0\Temperature bot.pdb
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.csproj.AssemblyReference.cache
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.AssemblyInfoInputs.cache
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.AssemblyInfo.cs
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.dll
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\refint\Temperature bot.dll
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.pdb
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\Temperature bot.genruntimeconfig.cache
+C:\Users\SHIMA\Documents\code c#\Temperature bot\Temperature bot\obj\Debug\net6.0\ref\Temperature bot.dll

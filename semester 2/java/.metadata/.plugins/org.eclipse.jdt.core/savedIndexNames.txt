@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Shimzy\Documents\Aptech\Aptech codes\semester 2\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3892617538.index
+2506192191.index
+3352537029.index
+1029594761.index
+4042170851.index

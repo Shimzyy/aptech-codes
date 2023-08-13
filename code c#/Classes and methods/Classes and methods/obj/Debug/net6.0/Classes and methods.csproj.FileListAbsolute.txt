@@ -1,0 +1,15 @@
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\Classes and methods.exe
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\Classes and methods.deps.json
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\Classes and methods.runtimeconfig.json
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\Classes and methods.dll
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\ref\Classes and methods.dll
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\bin\Debug\net6.0\Classes and methods.pdb
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.csproj.AssemblyReference.cache
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.AssemblyInfoInputs.cache
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.AssemblyInfo.cs
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.dll
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\ref\Classes and methods.dll
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.pdb
+C:\Users\SHIMA\source\repos\Classes and methods\Classes and methods\obj\Debug\net6.0\Classes and methods.genruntimeconfig.cache

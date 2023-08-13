@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqJ9IAhI0kSronV7NBW4FY3kn/5u/3Wp8tUhhRCJlzewTtCmpZAzBXEgXVtJhzp9Pq2nAw3MAnUw8v/pASvTzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHIMA\\Documents\\code c#\\simple calculator\\simple calculator\\simple calculator.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIMA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
